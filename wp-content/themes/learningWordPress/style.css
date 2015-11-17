@@ -161,36 +161,6 @@ article.post-gallery h2 a {
 	display: block;
 }
 
-/* Header Nav Menu */
-.site-header nav {
-	margin-top: 30px;
-}
-
-.site-header nav ul li {
-	margin-right: 5px;
-}
-
-.site-header nav ul li a:link,
-.site-header nav ul li a:visited {
-	padding: 10px 17px;
-	text-decoration: none;
-	border: 1px solid #DDD;
-	border-bottom: none;
-}
-
-.site-header nav ul li a:hover {
-	background-color: #ECECEC;
-}
-
-.site-header nav ul li.current-menu-item a:link,
-.site-header nav ul li.current-menu-item a:visited,
-.site-header nav ul li.current-page-ancestor a:link,
-.site-header nav ul li.current-page-ancestor a:visited {
-	font-weight: bold;
-	background-color: #006ec3;
-	color: #FFF;
-}
-
 /* Post Columns */
 .home-columns {
 	padding-top: 20px;
@@ -503,5 +473,46 @@ div.hd-search #s {
 /* Header.php*/
 h1.mtu-title
 {
+	font-size:100px;
+	color:blue;
+}
 
+div.mtu-header
+{
+	width:100%;
+	height:auto;
+	background-color: #96ceff;
+}
+
+
+/* Header Nav Menu */
+.site-header nav {
+	margin-top: 30px;
+
+
+}
+
+.site-header nav ul li {
+	margin-right: 5px;
+}
+
+.site-header nav ul li a:link,
+.site-header nav ul li a:visited {
+	padding: 10px 17px;
+	text-decoration: none;
+	border: 1px solid #DDD;
+	border-bottom: none;
+}
+
+.site-header nav ul li a:hover {
+	background-color: #ECECEC;
+}
+
+.site-header nav ul li.current-menu-item a:link,
+.site-header nav ul li.current-menu-item a:visited,
+.site-header nav ul li.current-page-ancestor a:link,
+.site-header nav ul li.current-page-ancestor a:visited {
+	font-weight: bold;
+	background-color: #006ec3;
+	color: #FFF;
 }
