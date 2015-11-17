@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f90893bd-39a9-4be8-a3f0-dfc100a3c616" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="MTU.iws" />
     <ignored path=".idea/workspace.xml" />
